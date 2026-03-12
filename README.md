@@ -1,2 +1,2 @@
 # Cordova_Scanner
-Scanner plugin for cordova
+Scanner plugin for cordova.
