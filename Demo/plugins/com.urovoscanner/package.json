@@ -1,0 +1,17 @@
+{
+  "name": "com.urovoscanner",
+  "version": "1.0.2",
+  "description": "",
+  "cordova": {
+    "id": "com.urovoscanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Paulo Bouça",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "com.urovoscanner": {
+    "source": {
+      "type": "local",
+      "path": "D:\\Cordova\\ScanDemo\\node_modules\\com.urovoscanner"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
